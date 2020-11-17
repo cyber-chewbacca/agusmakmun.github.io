@@ -1,10 +1,8 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+title: First world cyber problems
+description: Malware Analysis & Forensics
+author: Cyber Chewbacca
+github: https://github.com/cyber-chewbacca
+about: Interested in Malware Analysis, Forensics, Threat Intelligence, Coding
 
 enableTags: true
 tagarray: []
@@ -24,11 +22,10 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/cyber-chewbacca"
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+  twitter_username: cyber.chewbacca
 
 urls:
     - text: About Me
@@ -38,13 +35,13 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://github.com/cyber-chewbacca"
 baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
